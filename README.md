@@ -14,7 +14,7 @@
 
 ## About
 
-<div style="border-left: 3px solid #21262d; padding-left: 14px;">
+<div style="border-left: 3px solid #58a6ff; padding-left: 14px;">
 
 Backend-focused Software Engineer with hands-on experience designing and deploying production systems on **AWS**. I architect cloud-native infrastructures (serverless + EC2), build robust APIs, and own CI/CD pipelines end-to-end — with full-stack range to ship features from database to UI when needed.
 
