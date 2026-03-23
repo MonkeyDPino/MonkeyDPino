@@ -9,3 +9,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-pinodev.vercel.app-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pinodev.vercel.app)
 
 </div>
+
+---
+
+## About
+
+<div style="border-left: 3px solid #21262d; padding-left: 14px;">
+
+Backend-focused Software Engineer with hands-on experience designing and deploying production systems on **AWS**. I architect cloud-native infrastructures (serverless + EC2), build robust APIs, and own CI/CD pipelines end-to-end — with full-stack range to ship features from database to UI when needed.
+
+</div>
