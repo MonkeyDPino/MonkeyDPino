@@ -19,3 +19,39 @@
 Backend-focused Software Engineer with hands-on experience designing and deploying production systems on **AWS**. I architect cloud-native infrastructures (serverless + EC2), build robust APIs, and own CI/CD pipelines end-to-end — with full-stack range to ship features from database to UI when needed.
 
 </div>
+
+---
+
+## Experience
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="24" valign="top" align="center">
+  <div style="width:12px;height:12px;border-radius:50%;background-color:#58a6ff;margin-top:4px;"></div>
+  <div style="width:2px;background:linear-gradient(to bottom,#58a6ff,#3fb950);min-height:80px;margin:4px auto 0;"></div>
+</td>
+<td valign="top" style="padding-left:12px;padding-bottom:24px;">
+
+**Agentemotor** &nbsp;<sub>Backend & Cloud Developer</sub>
+
+▸ Designed scalable AWS infrastructure: `EC2 · ALB · Lambda · API Gateway · ElastiCache · Cognito`
+▸ Built SOAT insurance sales platform with bidirectional **Odoo 18 ERP** integration via Python APIs
+▸ Delivered full-stack features with **React + Vite** frontend and **Node.js + Express** backend
+▸ Automated delivery with **GitHub Actions CI/CD** + Docker orchestration
+
+</td>
+</tr>
+<tr>
+<td width="24" valign="top" align="center">
+  <div style="width:12px;height:12px;border-radius:50%;background-color:#3fb950;margin-top:4px;"></div>
+</td>
+<td valign="top" style="padding-left:12px;">
+
+**Universidad Tecnológica de Pereira** &nbsp;<sub>Research Assistant</sub>
+
+▸ Contributed to **Quantum Computing** research — methodology structuring and algorithm development
+▸ Authored scientific documents with advanced **LaTeX** for high-complexity mathematical content
+
+</td>
+</tr>
+</table>
