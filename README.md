@@ -50,3 +50,30 @@ Backend-focused Software Engineer with hands-on experience designing and deployi
 </td>
 </tr>
 </table>
+
+---
+
+## Tech Stack
+
+<table border="0">
+<tr>
+  <td><b>Languages</b></td>
+  <td><img src="https://skillicons.dev/icons?i=js,ts,python&theme=dark" /></td>
+</tr>
+<tr>
+  <td><b>Frontend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" /></td>
+</tr>
+<tr>
+  <td><b>Backend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" /></td>
+</tr>
+<tr>
+  <td><b>Cloud</b></td>
+  <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions&theme=dark" /></td>
+</tr>
+<tr>
+  <td><b>Databases</b></td>
+  <td><img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" /></td>
+</tr>
+</table>
