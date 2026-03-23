@@ -77,3 +77,11 @@ Backend-focused Software Engineer with hands-on experience designing and deployi
   <td><img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" /></td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonkeyDPino&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/MonkeyDPino)
+
+</div>
