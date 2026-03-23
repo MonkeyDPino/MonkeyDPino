@@ -24,13 +24,10 @@ Backend-focused Software Engineer with hands-on experience designing and deployi
 
 ## Experience
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="8" cellspacing="0">
 <tr>
-<td width="24" valign="top" align="center">
-  <div style="width:12px;height:12px;border-radius:50%;background-color:#58a6ff;margin-top:4px;"></div>
-  <div style="width:2px;background:linear-gradient(to bottom,#58a6ff,#3fb950);min-height:80px;margin:4px auto 0;"></div>
-</td>
-<td valign="top" style="padding-left:12px;padding-bottom:24px;">
+<td width="24" valign="top" align="center">🔵</td>
+<td valign="top">
 
 **Agentemotor** &nbsp;<sub>Backend & Cloud Developer</sub>
 
@@ -42,10 +39,8 @@ Backend-focused Software Engineer with hands-on experience designing and deployi
 </td>
 </tr>
 <tr>
-<td width="24" valign="top" align="center">
-  <div style="width:12px;height:12px;border-radius:50%;background-color:#3fb950;margin-top:4px;"></div>
-</td>
-<td valign="top" style="padding-left:12px;">
+<td width="24" valign="top" align="center">🟢</td>
+<td valign="top">
 
 **Universidad Tecnológica de Pereira** &nbsp;<sub>Research Assistant</sub>
 
