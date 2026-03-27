@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&width=600&lines=Juan+Esteban+Pino;Backend+%26+Cloud+Engineer;AWS+%7C+React+%7C+Node.js+%7C+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&width=600&lines=Juan+Esteban+Pino;Software+Engineer;AWS+%7C+React+%7C+Node.js+%7C+Python)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&label=)](https://www.linkedin.com/in/juan-pino-vidal/)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&label=)](https://wa.me/573233927516)
